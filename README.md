@@ -7,17 +7,17 @@ Un magazin online complet realizat cu **PostgreSQL**, **Express.js**, **React.js
 ## 📸 Capturi de ecran
 
 ### 🔹 Pagina principală (Home)
-![Homepage](Screenshot 2025-08-01 172152.png)
+![Homepage](./Screenshot 2025-08-01 172152.png)
 
 ---
 
 ### 🔹 Pagina produsului
-![Product Page](Screenshot 2025-08-01 172246.png)
+![Product Page](./Screenshot 2025-08-01 172246.png)
 
 ---
 
 ### 🔹 Editare produs
-![Edit Product](Screenshot 2025-08-01 172217.png)
+![Edit Product](./Screenshot 2025-08-01 172217.png)
 
 ---
 
