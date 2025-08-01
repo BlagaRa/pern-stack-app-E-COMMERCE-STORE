@@ -1,45 +1,45 @@
 # 🛒 Full-Stack eCommerce Store (PERN Stack)
 
-Un magazin online complet realizat cu **PostgreSQL**, **Express.js**, **React.js** și **Node.js**. Aplicația permite vizualizarea produselor, detalii pentru fiecare produs și editarea produselor (funcționalitate de admin).
+A simple full-stack eCommerce application built using **PostgreSQL**, **Express.js**, **React.js**, and **Node.js**. The application allows users to view products, see detailed information for each product, and (as an admin) add or edit products.
 
 ---
 
-## 📸 Capturi de ecran
+## 📸 Screenshots
 
-### 🔹 Pagina principală (Home)
-![Homepage](./Screenshot 2025-08-01 172152.png)
-
----
-
-### 🔹 Pagina produsului
-![Product Page](./Screenshot 2025-08-01 172246.png)
+### 🔹 Homepage
+![Homepage](./Public/home.png)
 
 ---
 
-### 🔹 Editare produs
-![Edit Product](./Screenshot 2025-08-01 172217.png)
+### 🔹 Product Details Page
+![Product Page](./Public/product.png)
 
 ---
 
-## ⚙️ Tehnologii utilizate
+### 🔹 Add/Edit Product Page
+![Edit Product](./Public/add.png)
+
+---
+
+## ⚙️ Technologies Used
 
 - **Frontend:** React, React Router, Axios
 - **Backend:** Express.js, Node.js
-- **Baza de date:** PostgreSQL
-- **Altele:** CORS, dotenv, nodemon
+- **Database:** PostgreSQL
+- **Others:** CORS, dotenv, nodemon
 
 ---
 
-## 🚀 Funcționalități
+## 🚀 Features
 
-- Afișare produse pe homepage
-- Vizualizare detalii produs
-- Editare produs (admin)
-- API RESTful
-- Conexiune cu baza de date PostgreSQL
-- Arhitectură organizată pe `client/` și `server/`
+- Display all products on the homepage
+- View product details on a separate page
+- Add or edit products (admin functionality)
+- RESTful API built with Express.js
+- PostgreSQL integration for storing product data
+- Organized architecture using `client/` and `server/` folders
 
 ---
 
-## 🧱 Structura proiectului
+## 🧱 Project Structure
 
